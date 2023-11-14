@@ -3,6 +3,7 @@
 
 ##Descripción
 Este proyecto se centra en el desarrollo de Alessandro, un asistente similar a Alexa, que proporciona información resumida sobre figuras públicas. Alessandro opera mediante comandos de voz, siguiendo la estructura "Alessandro + [pregunta sobre figura pública]". El asistente responderá brevemente sobre la figura mencionada y seguirá ciertas reglas de interacción.
+
 ##Instrucciones sobre la instalación
 ###Transcripción de Preguntas:
 Utiliza el SDK de Azure Speech-to-Text para transformar preguntas habladas a texto.
